@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(/img/748988.jpg);
+}
+
+#experience {
+  background-image: url(/img/748988.jpg);
+}
+
+section {
+  padding-top: 5rem;
+}
+.logo {
+  font-size: 30px;
+  font-family: var(--logo);
+  color: var(--primary);
+}
+.navbar-brand {
+  font-family: "Allison", cursive;
+  font-weight: bold;
+  font-size: 2rem;
+  color: purple;
+}
